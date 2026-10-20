@@ -1,0 +1,16 @@
+{
+  "policy": "Gold labels and evaluation use these exact pinned Statistics Canada release-page response bytes. Values are read from the same document instance, never from a revised time-series database.",
+  "pinned_at": "2026-09-01T20:48:29.433Z",
+  "cases": {
+    "2024-09": {"source_url": "https://www.statcan.gc.ca/daily-quotidien/241015/dq241015a-eng.htm", "fixture_path": "eval/fixtures/2024-09.html", "fetched_at": "2026-09-01T20:48:21.490Z", "source_sha256": "5064d48ad232b5f06bc3d17e4427d323e6e98fba7f15b2914ea05298056600cf"},
+    "2024-08": {"source_url": "https://www.statcan.gc.ca/daily-quotidien/240917/dq240917a-eng.htm", "fixture_path": "eval/fixtures/2024-08.html", "fetched_at": "2026-09-01T20:48:22.285Z", "source_sha256": "654f94ce30191c9a284be95d5dc5f66d4e1c11e16c4f6ddd215fd1e102d36e0c"},
+    "2024-07": {"source_url": "https://www.statcan.gc.ca/daily-quotidien/240820/dq240820a-eng.htm", "fixture_path": "eval/fixtures/2024-07.html", "fetched_at": "2026-09-01T20:48:23.062Z", "source_sha256": "103a1cfd6073bb7f009ba908085672f57ae6c67f3f168088e16ead4de7ab35b3"},
+    "2024-06": {"source_url": "https://www.statcan.gc.ca/daily-quotidien/240716/dq240716a-eng.htm", "fixture_path": "eval/fixtures/2024-06.html", "fetched_at": "2026-09-01T20:48:24.064Z", "source_sha256": "b3018ab56b69041cbcb409fe19c96076831878819eddf99afeb3686854fa2434"},
+    "2024-05": {"source_url": "https://www.statcan.gc.ca/daily-quotidien/240625/dq240625a-eng.htm", "fixture_path": "eval/fixtures/2024-05.html", "fetched_at": "2026-09-01T20:48:25.033Z", "source_sha256": "6c122db52dc04e37151f7c1a3cdea4d2411d25a6aaf98fbab545c8c0538e8431"},
+    "2024-04": {"source_url": "https://www.statcan.gc.ca/daily-quotidien/240521/dq240521a-eng.htm", "fixture_path": "eval/fixtures/2024-04.html", "fetched_at": "2026-09-01T20:48:25.994Z", "source_sha256": "66e56cb94cade3afba830fdd139b7f9cd94b458915067d71d9396fbc196396b4"},
+    "2024-03": {"source_url": "https://www.statcan.gc.ca/daily-quotidien/240416/dq240416a-eng.htm", "fixture_path": "eval/fixtures/2024-03.html", "fetched_at": "2026-09-01T20:48:26.768Z", "source_sha256": "5021153f926c4f57057d9166230d5d406436aaa8c04fc74619c88cdf1da3d1ea"},
+    "2024-02": {"source_url": "https://www.statcan.gc.ca/daily-quotidien/240319/dq240319a-eng.htm", "fixture_path": "eval/fixtures/2024-02.html", "fetched_at": "2026-09-01T20:48:27.575Z", "source_sha256": "f0724c585dffa6ba55d9e597807996a4e0ee1b4c88bd1329a7ff49c40e5e199b"},
+    "2024-01": {"source_url": "https://www.statcan.gc.ca/daily-quotidien/240220/dq240220a-eng.htm", "fixture_path": "eval/fixtures/2024-01.html", "fetched_at": "2026-09-01T20:48:28.499Z", "source_sha256": "e8a12dcee2bbcc2898506a7417a36bc11a596afbb0aaf8269c4352817e66c77f"},
+    "2023-12": {"source_url": "https://www.statcan.gc.ca/daily-quotidien/240116/dq240116a-eng.htm", "fixture_path": "eval/fixtures/2023-12.html", "fetched_at": "2026-09-01T20:48:29.433Z", "source_sha256": "02428ad6a882c722f7890f2105191b823c4311465b3aecaec718540ae07dd3ad"}
+  }
+}
