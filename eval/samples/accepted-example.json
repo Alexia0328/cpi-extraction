@@ -1,0 +1,41 @@
+{
+  "schema_version": "2",
+  "source": {
+    "url": "https://www.statcan.gc.ca/daily-quotidien/241015/dq241015a-eng.htm",
+    "fetched_at": "2026-09-01T20:48:21.490Z",
+    "sha256": "5064d48ad232b5f06bc3d17e4427d323e6e98fba7f15b2914ea05298056600cf"
+  },
+  "record": {
+    "reference_month": "2024-09",
+    "release_date": "2024-10-15",
+    "headline_yoy_pct": "1.6",
+    "headline_yoy_change_pp": "-0.4",
+    "headline_mom_pct": "-0.4",
+    "headline_mom_sa_pct": "0.0",
+    "cpi_ex_gas_yoy_pct": "2.2",
+    "methodology_change_status": "none"
+  },
+  "evidence": {
+    "reference_month": "# Consumer Price Index, September 2024",
+    "release_date": "Released: 2024-10-15",
+    "headline_yoy_pct": "The Consumer Price Index (CPI) rose 1.6% on a year-over-year basis in September, down from a 2.0% gain in August.",
+    "headline_yoy_change_pp": "The Consumer Price Index (CPI) rose 1.6% on a year-over-year basis in September, down from a 2.0% gain in August.",
+    "headline_mom_pct": "On a monthly basis, the CPI fell 0.4% in September, after a 0.2% decline in August.",
+    "headline_mom_sa_pct": "On a seasonally adjusted monthly basis, the CPI was unchanged at 0.0% in September.",
+    "cpi_ex_gas_yoy_pct": "The all-items CPI excluding gasoline rose 2.2% in September, matching the increase in August for this measure.",
+    "methodology_change_status": []
+  },
+  "processing": {
+    "completed_at": "2026-09-03T04:08:11.492Z",
+    "method": "deterministic-fast-path-v1",
+    "prompt_version": "deterministic-fast-path-v1",
+    "latency_ms": 5,
+    "slo_ms": 10000,
+    "within_slo": true,
+    "cache_hit": false,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "validation": "valid",
+    "warnings": []
+  }
+}

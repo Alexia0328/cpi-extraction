@@ -1,0 +1,33 @@
+{
+  "sample_kind": "historical_pre_fix_gold_mismatch_not_quarantined",
+  "case_id": "2024-01",
+  "source_url": "https://www.statcan.gc.ca/daily-quotidien/240220/dq240220a-eng.htm",
+  "source_sha256": "e8a12dcee2bbcc2898506a7417a36bc11a596afbb0aaf8269c4352817e66c77f",
+  "prediction": {
+    "reference_month": "2024-01",
+    "release_date": "2024-02-20",
+    "headline_yoy_pct": "2.9",
+    "headline_yoy_change_pp": "-0.5",
+    "headline_mom_pct": "0.3",
+    "headline_mom_sa_pct": "-0.1",
+    "cpi_ex_gas_yoy_pct": "3.2",
+    "methodology_change_status": "effective_now"
+  },
+  "gold": {
+    "reference_month": "2024-01",
+    "release_date": "2024-02-20",
+    "headline_yoy_pct": "2.9",
+    "headline_yoy_change_pp": "-0.5",
+    "headline_mom_pct": "0.0",
+    "headline_mom_sa_pct": "-0.1",
+    "cpi_ex_gas_yoy_pct": "3.2",
+    "methodology_change_status": "effective_now"
+  },
+  "evidence": {
+    "headline_mom_pct": "On a monthly basis, the CPI was unchanged in January, following a 0.3% decline in December."
+  },
+  "validation_pass": true,
+  "eval_pass": false,
+  "root_cause": "Generic first-percentage selection chose the comparison-month 0.3 instead of current-month unchanged (0.0).",
+  "resolution": "The current implementation binds unchanged/percentage values to the release reference month; this preserved baseline remains as the required real bad sample."
+}
