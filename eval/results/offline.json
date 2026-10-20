@@ -1,0 +1,215 @@
+{
+  "cases": [
+    {
+      "case_id": "2024-09",
+      "correct_fields": 8,
+      "field_results": {
+        "cpi_ex_gas_yoy_pct": true,
+        "headline_mom_pct": true,
+        "headline_mom_sa_pct": true,
+        "headline_yoy_change_pp": true,
+        "headline_yoy_pct": true,
+        "methodology_change_status": true,
+        "reference_month": true,
+        "release_date": true
+      },
+      "processing_latency_ms": 9,
+      "strict_pass": true,
+      "timely_pass": true,
+      "total_fields": 8,
+      "utility_pass": true,
+      "validation_pass": true
+    },
+    {
+      "case_id": "2024-08",
+      "correct_fields": 8,
+      "field_results": {
+        "cpi_ex_gas_yoy_pct": true,
+        "headline_mom_pct": true,
+        "headline_mom_sa_pct": true,
+        "headline_yoy_change_pp": true,
+        "headline_yoy_pct": true,
+        "methodology_change_status": true,
+        "reference_month": true,
+        "release_date": true
+      },
+      "processing_latency_ms": 5,
+      "strict_pass": true,
+      "timely_pass": true,
+      "total_fields": 8,
+      "utility_pass": true,
+      "validation_pass": true
+    },
+    {
+      "case_id": "2024-07",
+      "correct_fields": 8,
+      "field_results": {
+        "cpi_ex_gas_yoy_pct": true,
+        "headline_mom_pct": true,
+        "headline_mom_sa_pct": true,
+        "headline_yoy_change_pp": true,
+        "headline_yoy_pct": true,
+        "methodology_change_status": true,
+        "reference_month": true,
+        "release_date": true
+      },
+      "processing_latency_ms": 5,
+      "strict_pass": true,
+      "timely_pass": true,
+      "total_fields": 8,
+      "utility_pass": true,
+      "validation_pass": true
+    },
+    {
+      "case_id": "2024-06",
+      "correct_fields": 8,
+      "field_results": {
+        "cpi_ex_gas_yoy_pct": true,
+        "headline_mom_pct": true,
+        "headline_mom_sa_pct": true,
+        "headline_yoy_change_pp": true,
+        "headline_yoy_pct": true,
+        "methodology_change_status": true,
+        "reference_month": true,
+        "release_date": true
+      },
+      "processing_latency_ms": 6,
+      "strict_pass": true,
+      "timely_pass": true,
+      "total_fields": 8,
+      "utility_pass": true,
+      "validation_pass": true
+    },
+    {
+      "case_id": "2024-05",
+      "correct_fields": 8,
+      "field_results": {
+        "cpi_ex_gas_yoy_pct": true,
+        "headline_mom_pct": true,
+        "headline_mom_sa_pct": true,
+        "headline_yoy_change_pp": true,
+        "headline_yoy_pct": true,
+        "methodology_change_status": true,
+        "reference_month": true,
+        "release_date": true
+      },
+      "processing_latency_ms": 6,
+      "strict_pass": true,
+      "timely_pass": true,
+      "total_fields": 8,
+      "utility_pass": true,
+      "validation_pass": true
+    },
+    {
+      "case_id": "2024-04",
+      "correct_fields": 8,
+      "field_results": {
+        "cpi_ex_gas_yoy_pct": true,
+        "headline_mom_pct": true,
+        "headline_mom_sa_pct": true,
+        "headline_yoy_change_pp": true,
+        "headline_yoy_pct": true,
+        "methodology_change_status": true,
+        "reference_month": true,
+        "release_date": true
+      },
+      "processing_latency_ms": 7,
+      "strict_pass": true,
+      "timely_pass": true,
+      "total_fields": 8,
+      "utility_pass": true,
+      "validation_pass": true
+    },
+    {
+      "case_id": "2024-03",
+      "correct_fields": 8,
+      "field_results": {
+        "cpi_ex_gas_yoy_pct": true,
+        "headline_mom_pct": true,
+        "headline_mom_sa_pct": true,
+        "headline_yoy_change_pp": true,
+        "headline_yoy_pct": true,
+        "methodology_change_status": true,
+        "reference_month": true,
+        "release_date": true
+      },
+      "processing_latency_ms": 6,
+      "strict_pass": true,
+      "timely_pass": true,
+      "total_fields": 8,
+      "utility_pass": true,
+      "validation_pass": true
+    },
+    {
+      "case_id": "2024-02",
+      "correct_fields": 8,
+      "field_results": {
+        "cpi_ex_gas_yoy_pct": true,
+        "headline_mom_pct": true,
+        "headline_mom_sa_pct": true,
+        "headline_yoy_change_pp": true,
+        "headline_yoy_pct": true,
+        "methodology_change_status": true,
+        "reference_month": true,
+        "release_date": true
+      },
+      "processing_latency_ms": 5,
+      "strict_pass": true,
+      "timely_pass": true,
+      "total_fields": 8,
+      "utility_pass": true,
+      "validation_pass": true
+    },
+    {
+      "case_id": "2024-01",
+      "correct_fields": 8,
+      "field_results": {
+        "cpi_ex_gas_yoy_pct": true,
+        "headline_mom_pct": true,
+        "headline_mom_sa_pct": true,
+        "headline_yoy_change_pp": true,
+        "headline_yoy_pct": true,
+        "methodology_change_status": true,
+        "reference_month": true,
+        "release_date": true
+      },
+      "processing_latency_ms": 6,
+      "strict_pass": true,
+      "timely_pass": true,
+      "total_fields": 8,
+      "utility_pass": true,
+      "validation_pass": true
+    },
+    {
+      "case_id": "2023-12",
+      "correct_fields": 8,
+      "field_results": {
+        "cpi_ex_gas_yoy_pct": true,
+        "headline_mom_pct": true,
+        "headline_mom_sa_pct": true,
+        "headline_yoy_change_pp": true,
+        "headline_yoy_pct": true,
+        "methodology_change_status": true,
+        "reference_month": true,
+        "release_date": true
+      },
+      "processing_latency_ms": 6,
+      "strict_pass": true,
+      "timely_pass": true,
+      "total_fields": 8,
+      "utility_pass": true,
+      "validation_pass": true
+    }
+  ],
+  "field_accuracy_pct": 100.0,
+  "fields_correct": 80,
+  "fields_total": 80,
+  "mode": "offline",
+  "processing_slo_ms": 10000,
+  "strict_accuracy_pct": 100.0,
+  "strict_records_correct": 10,
+  "strict_records_total": 10,
+  "utility_accuracy_pct": 100.0,
+  "utility_records_correct": 10,
+  "utility_records_total": 10
+}
